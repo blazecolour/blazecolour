@@ -1,1 +1,1 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=blazecolour&show_icons=true&theme=dark)
+![My stats](https://github-readme-stats.vercel.app/api?username=blazecolour&count_private=true&show_icons=true&theme=dark)
